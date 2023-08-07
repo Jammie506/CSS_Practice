@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="finalProjectStyle">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supreme Rocket Maintenance - Rocketman</title>
+</head>
+<!-- #TODO Reorg CCS groups and tags, they are all over the place!! -->
+<body class="body">
+    <nav class="navBar navBarLight navBarExpandLG">
+        <div class="container">
+            <a class="navBarBrand">
+                <img src="images/rocketManLogo.png" alt="RocketmanLogo">
+            </a>
+            <button class="button" type="button" onclick="window.location.href='https://www.google.com/';">
+                <span>
+                    <img class="buttonImg" src="images/menuIcon.png" alt="Hamburger Menu">
+                </span>
+            </button>
+            </button>
+        </div>
+    </nav>
+
+    <div class="jumbotron">
+        <div class="container">
+            <div class="row">
+                <div class="heroText">
+                    <h1 class="display3 ccHomeBannerTitle">
+                        Supreme Rocket Maintenance
+                    </h1>
+                    <p class="lead">
+                        Your rocket it your $1,000,000,000 baby. We get that.
+                    </p>
+                    <p class="contactUs">
+                        <a 
+                        class="contactUsBtn" 
+                        href="contactUs.html">
+                            Contact Us
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <main id="contet" class="container my-4" role="main">
+        <!-- Title Box -->
+        <div class="row textCenter ccTitleBox">
+            <div class="col">
+                <h3 class="ccTitleTitle">
+                    Your rocket is valuable. Let the professionals work on it
+                </h3>
+            </div>
+        </div>
+        <!-- End Title Box -->
+
+        <!-- Cards Block -->
+
+
+    </main>
+</body>
+</html>
