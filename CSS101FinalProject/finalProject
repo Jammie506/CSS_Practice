@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="finalProjectStyle">
+    <link rel="stylesheet" href="CSSTemp.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Supreme Rocket Maintenance - Rocketman</title>
 </head>
 <!-- #TODO Reorg CCS groups and tags, they are all over the place!! -->
-<body class="body">
-    <nav class="navBar navBarLight navBarExpandLG">
-        <div class="container">
+<body class="m0">
+    <nav class="navBar">
+        <div class="container m0a">
             <a class="navBarBrand">
                 <img src="images/rocketManLogo.png" alt="RocketmanLogo">
             </a>
-            <button class="button" type="button" onclick="window.location.href='https://www.google.com/';">
+            <button class="navButton" type="button" onclick="window.location.href='https://www.google.com/';">
                 <span>
-                    <img class="buttonImg" src="images/menuIcon.png" alt="Hamburger Menu">
+                    <img class="navButtonImg" src="images/menuIcon.png" alt="Hamburger Menu">
                 </span>
             </button>
             </button>
