@@ -29,7 +29,7 @@
 }
 
 .container{
-    /* padding: 0px -17.5px; */
+    padding: 37px 48px;
     max-width: 1200px;
     width: 100%;
 
@@ -40,7 +40,6 @@
 
 .navBar{
     max-width: 100%;
-    padding: 37px 48px;
 
     display: flex;
     align-items: center;
@@ -62,7 +61,41 @@
 }
 
 .heroImage{
+    padding: 144px 0px;
+    background-image: 
+    linear-gradient(180.43deg, rgba(0,0,0,0.60), rgba(0,0,0,0.80)),
+    url(images/rocketLaunch.jpg);
 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heroText{
+    color: whitesmoke;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+
+    box-sizing: border-box;
+}
+
+.htButton{
+    padding: 0.5rem 2rem;
+    font-size: 1.125rem;
+    width: 127.383px;
+    height: 36px;
+    padding: 8px 12px;
+
+    line-height: 2;
+    border-radius: 0;
+    color: black;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
 }
 
 .bodyContent{
