@@ -14,9 +14,9 @@
     align-items: center;
 } */
 
-.navBarBrand{
+/* .navBarBrand{
     margin-right: 48px;
-}
+} */
 
 /* .container{
     padding: 0px -17.5px;
@@ -39,7 +39,7 @@
     height: 33.75px;
 } */
 
-.jumbotron{
+/* .jumbotron{
     padding: 144px 0px;
     background-image: 
     linear-gradient(180.43deg, rgba(0,0,0,0.60), rgba(0,0,0,0.80)),
@@ -47,44 +47,44 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
+} */
 
-.row{
+/* .row{
     display: flex;
     flex-wrap: wrap;
     margin-right: -17.5px;
     margin-left: -17.5px;
     box-sizing: border-box;
-}
+} */
 
-.heroText{
+/* .heroText{
     padding: 17.5px;
     color: whitesmoke;
     font-stretch: normal;
     line-height: normal;
     letter-spacing: normal;
 
-}
+} */
 
-.display3{
+/* .display3{
     width: 765px;
     height: 156.667px;
     font-size: 64px;
     font-weight: 300;
-}
+} */
 
-.lead{
+/* .lead{
     font-size: 1.875rem;
     font-weight: 300;
-}
+} */
 
-.contactUs{
+/* .contactUs{
     margin-top: 3rem;
     margin-bottom: 1rem;
     box-sizing: border-box;
-}
+} */
 
-.contactUsBtn{
+/* .contactUsBtn{
     width: 127.383px;
     height: 36px;
     padding: 8px 12px;
@@ -98,7 +98,7 @@
     text-transform: uppercase;
     text-decoration: none;
     text-align: center;
-}
+} */
 
 .col{
     position: relative;
