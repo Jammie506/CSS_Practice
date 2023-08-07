@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="CSSTemp.css">
+    <link rel="stylesheet" href="finalProjectStyle">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Supreme Rocket Maintenance - Rocketman</title>
@@ -42,15 +42,13 @@
         </div>
     </div>
 
-    <main id="contet" class="container my-4" role="main">
+    <main class="">
         <!-- Title Box -->
-        <div class="row textCenter ccTitleBox">
-            <div class="col">
-                <h3 class="ccTitleTitle">
-                    Your rocket is valuable. Let the professionals work on it
+            <div class="m0a bodyTitle">
+                <h3 class="textCenter m0 headings2">
+                    Your rocket is valuable. Let the professionals work on it.
                 </h3>
             </div>
-        </div>
         <!-- End Title Box -->
 
         <!-- Cards Block -->

@@ -1,94 +1,105 @@
-/* #TODO Reorg CCS groups and tags, they are all over the place!! */
- 
-/* .body{
+.m0{
     margin: 0px;
+}
 
-    font-family:proxima-nova,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;;
-} */
+.mt0{
+    margin-top: 0px;
+}
 
-/* .navBar{
-    max-width: 100%;
-    padding: 37px 48px;
-    margin: 0px;
-    display: flex;
-    align-items: center;
-} */
+.mb0{
+    margin-bottom: 0px;
+}
 
-/* .navBarBrand{
-    margin-right: 48px;
-} */
-
-/* .container{
-    padding: 0px -17.5px;
-    max-width: 1200px;
+.m0a{
     margin: 0px auto;
+}
+
+.fonts{
+    font-family:proxima-nova,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;;
+
+    font-size: 1.875rem;
+    font-weight: 300;
+}
+
+.headings{
+    width: 765px;
+    height: 156.667px;
+    font-size: 64px;
+    font-weight: 300;
+}
+
+.headings2{
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.875rem;
+    line-height: 1.33;
+    color: #000;
+}
+
+.container{
+    padding: 37px 48px;
+    max-width: 1200px;
     width: 100%;
+
     display: flex;
     align-items: center;
     justify-content: space-between;
-} */
+}
 
-/* .navbutton{
+.textCenter{
+    text-align: center !important;
+}
+
+.navBar{
+    max-width: 100%;
+
+    display: flex;
+    align-items: center;
+}
+
+.navBarBrand{
+    margin-right: 48px;
+}
+
+.navButton{
     padding: 4px 12px;
     border: 1px 1px;
-} */
+}
 
-/* .navButtonImg{
+.navButtonImg{
     border: none;
     width: 33.75px;
     height: 33.75px;
-} */
+}
 
-/* .jumbotron{
+.heroImage{
     padding: 144px 0px;
     background-image: 
     linear-gradient(180.43deg, rgba(0,0,0,0.60), rgba(0,0,0,0.80)),
     url(images/rocketLaunch.jpg);
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-} */
+    margin-bottom: 32px;
+}
 
-/* .row{
-    display: flex;
-    flex-wrap: wrap;
-    margin-right: -17.5px;
-    margin-left: -17.5px;
-    box-sizing: border-box;
-} */
-
-/* .heroText{
-    padding: 17.5px;
+.heroText{
     color: whitesmoke;
     font-stretch: normal;
     line-height: normal;
     letter-spacing: normal;
 
-} */
-
-/* .display3{
-    width: 765px;
-    height: 156.667px;
-    font-size: 64px;
-    font-weight: 300;
-} */
-
-/* .lead{
-    font-size: 1.875rem;
-    font-weight: 300;
-} */
-
-/* .contactUs{
-    margin-top: 3rem;
-    margin-bottom: 1rem;
     box-sizing: border-box;
-} */
+}
 
-/* .contactUsBtn{
+.htButton{
+    padding: 0.5rem 2rem;
+    font-size: 1.125rem;
     width: 127.383px;
     height: 36px;
     padding: 8px 12px;
-    font-size: 1.125rem;
+
     line-height: 2;
     border-radius: 0;
     color: black;
@@ -98,27 +109,25 @@
     text-transform: uppercase;
     text-decoration: none;
     text-align: center;
-} */
-
-.col{
-    position: relative;
-    padding: 0px 17.5px;
-    width: 1165px;
-    height: 39.9px;
 }
 
-.textCenter{
-    text-align: center !important;
+.bodyTitle{
+    max-width: 1200px;
+
+    display: flex;
+    justify-content: center;
+
+    box-sizing: border-box;
+
+    padding: 37px 48px;
+    max-width: 1200px;
+    width: 100%;
 }
 
-.ccTitleTitle{
-    font-weight: 300;
-    font-style: normal;
-    font-size: 1.875rem;
-    color: #000;
-    margin: 0px;
+.bodyContent{
+
 }
 
-.ccTitleBox{
-    margin: 115px -17.5px;
+.footer{
+    
 }
